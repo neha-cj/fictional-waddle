@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(230, 211, 188);
+
+}
+.main{
+    display: flex;
+    
+
+}
+.right {
+    position: relative;
+    width: 400px;
+    height: 550px;
+    left: 950px;
+    top: 25px;
+    
+}
+
+h1{
+    
+    color: rgb(141, 59, 59);
+    font-size: 50px;
+    margin-top: 30px;
+    
+}
+h2{
+    color: rgb(141, 59, 59);
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+p{
+    font-size: 17px;
+}
+
+.main a{
+    margin-top: 10px;
+    font-size: 18px;
+    color: white;
+    display: block;
+    background-color: rgb(141, 59, 59);
+    width: fit-content;
+    padding: 10px 20px;
+    text-decoration: none;
+}
